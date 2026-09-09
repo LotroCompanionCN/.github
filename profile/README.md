@@ -13,6 +13,14 @@ LotRO Companion 是《指环王OL》(Lord of the Rings Online, LOTRO) 的桌面�
 - 时间曲线 / 统计图表（如角色升级、制造熟练度、声望历史）
 - 界面与游戏内数据支持中文本地化（`Labels_zh` 等资源），统计图等 JFreeChart 图表亦适配中文字体
 
+## 📦 最新发布版 (lotro-companion-release)
+
+> `lotro-companion-release`
+
+**最新版本：**
+
+[⬇️ 前往 Releases 页面下载](https://github.com/LotroCompanionCN/lotro-companion-release/releases/latest)
+
 ## 模块概览
 
 仓库根聚合工程（`pom.xml`）的 reactor 构建模块：
