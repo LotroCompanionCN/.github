@@ -15,10 +15,6 @@ LotRO Companion 是《指环王OL》(Lord of the Rings Online, LOTRO) 的桌面�
 
 ## 📦 最新发布版 (lotro-companion-release)
 
-> `lotro-companion-release`
-
-**最新版本：**
-
 [⬇️ 前往 Releases 页面下载](https://github.com/LotroCompanionCN/lotro-companion-release/releases/latest)
 
 ## 模块概览
