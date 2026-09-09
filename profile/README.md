@@ -33,9 +33,10 @@ LotRO Companion 是《指环王OL》(Lord of the Rings Online, LOTRO) 的桌面�
 | `lotro-data` | 生成的 lore 数据（XML/BIN，发布时 gzip） |
 | `lotro-icons` | 图标资源 |
 | `lotro-items-db` | 物品数据库 |
+| `lotro-maps-db` | 地图数据资源（地图/分类/索引/标签/标记数据） |
 | `lotro-companion-release` | 发布装配模块：产出可运行的 `target/app/` 目录 |
 
-仓库内另有若干不在根 reactor 中、属于旧版工具/数据集的目录：`lotro-companion-distrib`（旧 JavaFX 打包脚本）、`lotro-tools`、`lotro-deeds-db`、`lotro-item-icons-db`、`lotro-maps-db`、`lotro-relics`、`lotro-jukebox` 等。
+仓库内另有若干不在根 reactor 中的独立仓库/目录：`lotro-tools`（辅助工具）、`lotro-dat-viewer`（独立的 LOTRO 客户端 `.dat` 只读查看器）、`lotro-companion-plugin`（独立插件仓库，无 Maven pom）等。
 
 ## 构建与打包
 
